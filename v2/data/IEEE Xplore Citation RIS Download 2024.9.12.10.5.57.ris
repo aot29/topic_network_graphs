@@ -1,0 +1,916 @@
+TY  - JOUR
+TI  - Energy Transition, the Next Hotspot of Energy Research: A Study Using Topic Modeling
+T2  - IEEE Transactions on Engineering Management
+SP  - 5829
+EP  - 5846
+AU  - S. K. Trivedi
+AU  - A. Singh
+AU  - M. Irfan
+AU  - H. T.
+AU  - P. Patra
+PY  - 2024
+KW  - Bibliometrics
+KW  - Reviews
+KW  - Fossil fuels
+KW  - Analytical models
+KW  - Resource management
+KW  - Databases
+KW  - Wind
+KW  - Energy transition
+KW  - latent Dirichlet allocation (LDA)
+KW  - machine learning
+KW  - topic modeling
+KW  - unsupervised
+DO  - 10.1109/TEM.2024.3368153
+JO  - IEEE Transactions on Engineering Management
+IS  - 
+SN  - 1558-0040
+VO  - 71
+VL  - 71
+JA  - IEEE Transactions on Engineering Management
+Y1  - 2024
+AB  - The rapid increase in the amount of greenhouse gas emissions resulting from the utilization of fossil fuels to meet global energy needs has made the transition to cleaner energy sources imperative. Past studies show that energy transition not only improves the environment that we live in but is also a means to fulfill many of the United Nation's sustainable development goals. Even though studies as early as the 1980s focused on energy transition, there has been a spurt in the volume of literature in the mentioned area over the last five years (post-2018). Consequently, researchers face a daunting task in scanning through this large literature body and identifying the key research trends and gray areas in energy transition research. The current study tries to address this problem by the use of an unsupervised machine learning technique “topic modeling via latent Dirichlet allocation model” implemented on the abstracts of 1221 research articles (related to energy transition) extracted from the Scopus database. The topic modeling approach reveals eight meaningfully interpretable unique topics. The use of technology and models for energy transition, energy transition and policy, environmental impacts of energy transition, and the impact of transition on energy markets are the most researched topics. However, benefits from energy transition, energy distribution, importance, and socio-economic impacts of energy transition are largely understudied. The study not only conducts a comprehensive analysis of the energy transition literature but also provides lots of implications and future research directions for the benefit of various stakeholders.
+ER  - 
+
+TY  - JOUR
+TI  - Review on 100% Renewable Energy System Analyses—A Bibliometric Perspective
+T2  - IEEE Access
+SP  - 125792
+EP  - 125834
+AU  - S. Khalili
+AU  - C. Breyer
+PY  - 2022
+KW  - Bibliometrics
+KW  - Renewable energy sources
+KW  - System analysis and design
+KW  - Databases
+KW  - Organizations
+KW  - Market research
+KW  - Energy efficiency
+KW  - Social networking (online)
+KW  - Climate change
+KW  - 100% renewable energy
+KW  - energy transition
+KW  - bibliometric analysis
+KW  - data processing machine
+KW  - social networks
+KW  - collaborative maps
+KW  - topic model
+DO  - 10.1109/ACCESS.2022.3221155
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+AB  - Concerns related to climate change and global warming caused by anthropogenic activities and fossil energy use in particular have been increasing lately. Air pollution and volatile conventional fuel prices emphasize the need to transition global energy systems towards very high shares of renewables. 100% renewable energy systems have been analyzed by many researchers starting from 1975. This bibliometric analysis reviews more than 600 scientific articles in which 100% renewable energy systems were surveyed. This study uses tools of bibliometric analysis based on publication databases and data mining together with review elements to understand the status and trend of 100% renewable energy systems research. The focus of results is on quantitative parameters relating to number and publication types, collaborative links among authors, institutions, and countries. Collaborative networks illustrate the significant concentration of published papers within organizations and co-authorships globally. The results reveal that the dominant organizations and thus number of published papers are from Europe and the USA; however, almost all the established research organizations in the field of energy system analysis are not active in the field of 100% renewable energy systems analyses. The journals Energy and Applied Energy have the most articles, and accordingly the most citations. EnergyPLAN and LUT Energy System Transition Model have been the most active tools used to analyze 100% renewable energy systems according to numbers of articles and received citations. The topic of modeling approach indicates the term ‘Energy System’ has the highest frequency due to its emergence in the articles. This research provides a holistic overview on the more than four decades of research, and it reveals dynamics within the field with a compound annual growth rate of articles of 26% in the 2010s, the trend of increasing the number publications, and author growth that comprises almost 1400 published authors.
+ER  - 
+
+TY  - JOUR
+TI  - Factors Influencing Students’ Choice of and Success in STEM: A Bibliometric Analysis and Topic Modeling Approach
+T2  - IEEE Transactions on Education
+SP  - 657
+EP  - 669
+AU  - M. Maphosa
+AU  - W. Doorsamy
+AU  - B. S. Paul
+PY  - 2022
+KW  - STEM
+KW  - Engineering profession
+KW  - Education
+KW  - Analytical models
+KW  - Citation analysis
+KW  - Data visualization
+KW  - Systematics
+KW  - Choice of qualifications
+KW  - social cognitive career theory (SCCT)
+KW  - science
+KW  - technology
+KW  - engineering
+KW  - and mathematics (STEM) students
+KW  - student retention
+DO  - 10.1109/TE.2022.3160935
+JO  - IEEE Transactions on Education
+IS  - 4
+SN  - 1557-9638
+VO  - 65
+VL  - 65
+JA  - IEEE Transactions on Education
+Y1  - Nov. 2022
+AB  - Contribution: This article lends empirical evidence to this research area of factors influencing students’ choice of and success in science, technology, engineering, and mathematics (STEM). Background: Understanding these factors is crucial as it informs recruitment and support interventions provided to students and constitutes a premise to improving graduation rates. The social cognitive career theory (SCCT) was used as a theoretical framework to provide insight regarding factors influencing students’ choice of qualifications. Research Questions: What is the state of research on the factors influencing students’ choice of and success in STEM programmes? Which of these factors have interested most researchers? What research themes are covered in articles investigating these factors? Methodology: This study followed the general bibliometric analysis workflow—study design, data collection, data analysis, data visualization, and interpretation. Data collection followed the preferred reporting items for systematic review and metaanalysis (PRISMA) guidelines. From an initial set of 408 articles, 179 related to the theme and were published in the Web of Science between 2004 and 2020. These articles were analyzed using the standard bibliometric metrics. Findings: Findings indicate that this research field is still growing. Thirty-two factors were identified and rated based using an objective assessment criterion. In addition, a classification of the factors is presented based on the SCCT. This study provides a theoretical reference for improving success rates for STEM qualifications and better understanding the theme. The study proposes a research agenda of what future research in the field should focus on, based on current gaps.
+ER  - 
+
+TY  - JOUR
+TI  - Exploring Gamification Research Trends Using Topic Modeling
+T2  - IEEE Access
+SP  - 119676
+EP  - 119692
+AU  - A. Ayaz
+AU  - O. Ozyurt
+AU  - W. M. Al-Rahmi
+AU  - S. A. Salloum
+AU  - A. Shutaleva
+AU  - F. Alblehai
+AU  - M. Habes
+PY  - 2023
+KW  - Education
+KW  - Systematics
+KW  - Market research
+KW  - Bibliometrics
+KW  - Bibliographies
+KW  - Games
+KW  - Analytical models
+KW  - Gamification
+KW  - topic modeling
+KW  - machine learning
+KW  - trend analysis
+KW  - text mining
+DO  - 10.1109/ACCESS.2023.3326444
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - Gamification holds significant importance as an efficacious means to motivate individuals, stimulate their engagement, and foster desired behaviors. There is an increasing interest among researchers in exploring the domain of gamification. Consequently, it becomes crucial to identify specific research trends within this field. This study employs a comprehensive analysis of 4743 articles sourced from the Scopus database, utilizing the topic modeling approach, with the objective of discerning research patterns and trends within the gamification domain. The findings revealed the existence of thirteen distinct topics within the field. Notably, “Health training,” “Enhancing learning with technology,” and “Game design framework” emerged as the most prominent topics, based on their frequency of research publications and popularity. This study serves as a valuable resource for researchers and practitioners seeking to stay abreast of the latest advancements in gamification. The identified issues through topic modeling can be employed to identify gaps in current research and potential directions for future research endeavors.
+ER  - 
+
+TY  - JOUR
+TI  - Exploring the Evolution of Educational Serious Games Research: A Topic Modeling Perspective
+T2  - IEEE Access
+SP  - 81827
+EP  - 81841
+AU  - H. Ozyurt
+AU  - O. Ozyurt
+AU  - D. Mishra
+PY  - 2024
+KW  - Games
+KW  - Education
+KW  - Analytical models
+KW  - Reviews
+KW  - Systematics
+KW  - Bibliometrics
+KW  - Training
+KW  - Data science
+KW  - Serious games
+KW  - Data science applications in education
+KW  - research trend
+KW  - serious games
+KW  - topic modeling
+DO  - 10.1109/ACCESS.2024.3411094
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - This study aims to reveal the dominant research interests and models in serious games research using topic modeling analysis. The dataset of this study covers a comprehensive collection of 2676 articles from the past to the end of 2022, indexed in the Scopus database. The study begins by presenting descriptive attributes of the articles, including their publication years, subject areas, and the journals in which they are published. Subsequently, employing topic modeling analysis, a form of unsupervised machine learning, the study identifies concealed themes, research interests, and tendencies within the literature. The findings indicate a notable surge in publications in this domain, particularly post-2009 and 2019. Furthermore, the study identifies eleven primary topics dominating the literature, with notable emphasis on “Training of STEM-related fields,” “Programming learning,” and “Medical education”. To gauge the dynamics within these topics, the study calculates accelerations both within individual topics and in comparison to others over time. Remarkably, “Child and adolescent health” emerges as the topic with the highest self-acceleration, while “Medical education” stands out for its acceleration in comparison to other topics. In sum, the outcomes of this study, which provides a comprehensive overview of the serious games field, are anticipated to yield valuable insights for understanding the current landscape, guiding future research endeavors, and shaping the trajectory of this field.
+ER  - 
+
+TY  - JOUR
+TI  - Topic Modeling: Perspectives From a Literature Review
+T2  - IEEE Access
+SP  - 4066
+EP  - 4078
+AU  - A. M. G. A.
+AU  - S. Robledo
+AU  - M. Zuluaga
+PY  - 2023
+KW  - Natural language processing
+KW  - Bibliometrics
+KW  - Databases
+KW  - Codes
+KW  - Bibliographies
+KW  - Data models
+KW  - Systematics
+KW  - Machine learning
+KW  - Literature review
+KW  - machine learning
+KW  - natural language processing
+KW  - scientometrics
+KW  - topic modeling
+DO  - 10.1109/ACCESS.2022.3232939
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - Topic modeling is a Natural Language Processing technique that has gained popularity over the last ten years, with applications in multiple fields of knowledge. However, there is insufficient empirical evidence to show how this field of study has developed over the years, as well as the main models that have been applied in different contexts. The objective of this paper is to analyze the evolution of the topic modeling technique, the main areas in which it has been applied, and the models that are recommended for specific types of data. The methodology applied is based on bibliometric analysis. First, we searched the Web of Science and the Scopus databases. We then used scientometric techniques and a Tree of Science methodology, which allowed us to analyze the search results from the perspectives of classics, structure, and trends. The results show that the USA and China are among the most productive countries in this field and the applications have been mainly in the identification of sub-topics in short texts, such as social networks and blogs. The main conclusion of this work is that topic modeling is a versatile technique that can complement systematic literature reviews and that has been well-received in different academic and research contexts. The results of this study will help researchers and academics to recognize the importance of these techniques for reviewing large volumes of unstructured information, such as research articles, and in general, for systematic literature reviews.
+ER  - 
+
+TY  - JOUR
+TI  - Detecting Latent Topics and Trends in Software Engineering Research Since 1980 Using Probabilistic Topic Modeling
+T2  - IEEE Access
+SP  - 74638
+EP  - 74654
+AU  - F. Gurcan
+AU  - G. G. M. Dalveren
+AU  - N. E. Cagiltay
+AU  - A. Soylu
+PY  - 2022
+KW  - Market research
+KW  - Systematics
+KW  - Software engineering
+KW  - Bibliometrics
+KW  - Text mining
+KW  - Corpus creation
+KW  - research trends and topics
+KW  - software engineering
+KW  - text mining
+KW  - topic model
+DO  - 10.1109/ACCESS.2022.3190632
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+AB  - The landscape of software engineering research has changed significantly from one year to the next in line with industrial needs and trends. Therefore, today’s research literature on software engineering has a rich and multidisciplinary content that includes a large number of studies; however, not many of them demonstrate a holistic view of the field. From this perspective, this study aimed to reveal a holistic view that reflects topics, trends, and trajectories in software engineering research by analyzing the majority of domain-specific articles published over the last 40 years. This study first presents an objective and systematic method for corpus creation through major publication sources in the field. A corpus was then created using this method, which includes 44 domain-specific conferences and journals and 57,174 articles published between 1980 and 2019. Next, this corpus was analyzed using an automated text-mining methodology based on a probabilistic topic-modeling approach. As a result of this analysis, 24 main topics were found. In addition, topical trends in the field were revealed. Finally, three main developmental stages of the field were identified as: the programming age, the software development age, and the software optimization age.
+ER  - 
+
+TY  - JOUR
+TI  - From Colonial Legacies to Linguistic Inclusion: A BERTopic Enhanced Bibliometric Insight Into Global South Higher Education
+T2  - IEEE Access
+SP  - 117418
+EP  - 117435
+AU  - S. Banerjee
+AU  - A. Pan
+PY  - 2024
+KW  - Education
+KW  - Bibliometrics
+KW  - Linguistics
+KW  - Cultural differences
+KW  - Analytical models
+KW  - Databases
+KW  - Africa
+KW  - Educational technology
+KW  - BERTopic modelling
+KW  - educational technology
+KW  - global south
+KW  - higher education policy
+KW  - linguistic decolonization
+KW  - multilingualism
+DO  - 10.1109/ACCESS.2024.3447894
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - The present study is a comprehensive three-tiered empirical framework that investigates the processes of linguistic diversity and decolonization within the higher education systems of the Global South. It provides a novel complementary application of ARM for Topic Recommender Systems and explores the evolving landscape of scholarly discourse on language justice and educational reform by mapping the findings from Bibliometric Co-occurrence Analysis with LDA and BERTopic modelling respectively. Bibliometric Co-occurrence Analysis was employed to produce seminal relationships between key terms from the extant scholarly literature that subsequently leads to a detailed thematic review. Successive applications of LDA and BERTopic modelling generated a comprehensive thematic analysis that detailed the trends in academic discourse on inclusivity, multilingualism, translanguaging and decolonization of higher education curriculum. Furthermore, by the innovative use of ARM based on author keywords, this study revealed more intricate associations and patterns among research topics, giving important insights into future avenues of research. The analysis was based on data entirely retrieved from the Scopus database. It shows the consensus around the need for reform of language policies in higher education, as well as the transformative potential for advanced computational techniques in analyzing academic narratives. The findings from our methodological exploration, demonstrate the necessity of policy reform in higher education concerning linguistic pluralism and dismantling colonial legacies. This study extends the conversation around the complexities of decolonisation, linguistic equity and justice in higher education in the Global South and beyond.
+ER  - 
+
+TY  - JOUR
+TI  - A Bibliometric Review of Soft Computing for Recommender Systems and Sentiment Analysis
+T2  - IEEE Transactions on Artificial Intelligence
+SP  - 642
+EP  - 656
+AU  - X. Chen
+AU  - H. Xie
+AU  - J. Wang
+AU  - Z. Li
+AU  - G. Cheng
+AU  - M. L. Wong
+AU  - F. L. Wang
+PY  - 2022
+KW  - Sentiment analysis
+KW  - Recommender systems
+KW  - Bibliometrics
+KW  - Collaboration
+KW  - Fuzzy logic
+KW  - Bibliometric analysis
+KW  - recommendation systems
+KW  - sentiment analysis
+KW  - soft computing
+KW  - structural topic modeling (STM)
+DO  - 10.1109/TAI.2021.3116551
+JO  - IEEE Transactions on Artificial Intelligence
+IS  - 5
+SN  - 2691-4581
+VO  - 3
+VL  - 3
+JA  - IEEE Transactions on Artificial Intelligence
+Y1  - Oct. 2022
+AB  - Soft computing, which focuses on approximate models and provides solutions to complicated real-life issues, has gained increasing momentum in application-specific domains, such as sentiment analysis and recommender systems, to emulate cognitive processes behind decision-making. In this work, bibliometrics and structural topic modeling (STM) were adopted to analyze the text contents of research articles concerning soft computing for sentiment analysis and recommender systems. Results indicated that this research field had experienced a dramatic increase in both quantity and quality as measured by scientific output and their received citations. Using STM, we identified 17 research topics frequently discussed within the analyzed articles. The analysis of annual topic prevalence indicated a shift in research foci from recommender applications to sentiment analysis and a growing interest in soft computing. This study served as a guideline for those seeking to contribute to research on soft computing for sentiment analysis and recommender systems. We also made methodological contributions by combining the leading-edge text mining algorithms to make the time-honored bibliometrics adaptive to the analysis of large quantities of unstructured texts beyond structured publication data statistics.
+ER  - 
+
+TY  - JOUR
+TI  - Covid-19 and E-Learning: An Exploratory Analysis of Research Topics and Interests in E-Learning During the Pandemic
+T2  - IEEE Access
+SP  - 123349
+EP  - 123357
+AU  - F. Gurcan
+AU  - G. G. M. Dalveren
+AU  - M. Derawi
+PY  - 2022
+KW  - Electronic learning
+KW  - Pandemics
+KW  - COVID-19
+KW  - Education
+KW  - Analytical models
+KW  - Bibliometrics
+KW  - Market research
+KW  - E-learning trends
+KW  - topic modeling
+KW  - n-grams
+KW  - covid-19
+KW  - topic discovery
+DO  - 10.1109/ACCESS.2022.3224034
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+AB  - E-learning has gained further importance and the amount of e-learning research and applications has increased exponentially during the COVID-19 pandemic. Therefore, it is critical to examine trends and interests in e-learning research and applications during the pandemic period. This paper aims to identify trends and research interests in e-learning articles related to COVID-19 pandemic. Consistent with this aim, a semantic content analysis was conducted on 3562 peer-reviewed journal articles published since the beginning of the COVID-19 pandemic, using the N-gram model and Latent Dirichlet Allocation (LDA) topic modeling approach. Findings of the study revealed the high-frequency bigrams such as “online learn”, “online education”, “online teach” and “distance learn”, as well as trigrams such as “higher education institution”, “emergency remote teach”, “education online learn” and “online teach learn”. Moreover, the LDA topic modeling analysis revealed 42 topics. The topics of “Learning Needs”, “Higher Education” and “Social Impact” respectively were the most focused topics. These topics also revealed concepts, dimensions, methods, tools, technologies, applications, measurement and evaluation models, which are the focal points of e-learning field during the pandemic. The findings of the study are expected to provide insights to researchers and future studies.
+ER  - 
+
+TY  - JOUR
+TI  - LDAViewer: An Automatic Language-Agnostic System for Discovering State-of-the-Art Topics in Research Using Topic Modeling, Bidirectional Encoder Representations From Transformers, and Entity Linking
+T2  - IEEE Access
+SP  - 59142
+EP  - 59163
+AU  - T. Dillan
+AU  - D. H. Fudholi
+PY  - 2023
+KW  - Bibliographies
+KW  - Systematics
+KW  - Market research
+KW  - Databases
+KW  - Bibliometrics
+KW  - Transformers
+KW  - Filtering
+KW  - Topic modeling
+KW  - state-of-the-art discovery
+KW  - development of knowledge
+KW  - latent-dirichlet allocation
+KW  - bidirectional encoder representations from transformers
+KW  - entity linking
+DO  - 10.1109/ACCESS.2023.3285116
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - Advancements in knowledge are pivotal to academic progress, necessitating efficient methods for discovering the state-of-the-art in various fields. Existing approaches, however, are language-specific and lack automation, limiting their efficacy. This study aims to develop a language-agnostic software that streamlines the process of identifying state-of-the-art research across diverse academic topics. The software automatically retrieves articles from multiple databases and preprocesses the content through tokenization, case folding, token cleansing, stopword removal, and lemmatization. Subsequently, a numeric document-phrase matrix is created and analyzed using latent Dirichlet allocation (LDA) and bidirectional encoder representations from transformers (BERT) to discover and label topics automatically. The study introduces a novel topic-filtering method based on entity linking and filtering model outputs using a knowledge database to ensure topic relevance. The visual representation employs nested bubble and line charts, effectively illustrating current topics, gaps, and research evolution trends. A user survey spread to 52 student researchers assessing the interface, topic relevance, and research output of the developed software, revealed that the interface is user-friendly, easy to navigate, and the presented information is comprehensible. Survey results also indicated that the generated topics are consistent with the processed article content and relevant to the investigated topic. The visualization effectively aids in understanding the state-of-the-art and research map. This study demonstrates that integrating LDA, BERT, and the proposed topic filtering and labeling method yields a robust tool for preliminary research analysis with high precision and relevance.
+ER  - 
+
+TY  - JOUR
+TI  - Identify Topic Relations in Scientific Literature Using Topic Modeling
+T2  - IEEE Transactions on Engineering Management
+SP  - 1232
+EP  - 1244
+AU  - H. Chen
+AU  - X. Wang
+AU  - S. Pan
+AU  - F. Xiong
+PY  - 2021
+KW  - Bibliometrics
+KW  - Analytical models
+KW  - Metadata
+KW  - Market research
+KW  - Text mining
+KW  - Tech mining
+KW  - Bibliometrics
+KW  - tech mining
+KW  - text mining
+KW  - topic analysis
+DO  - 10.1109/TEM.2019.2903115
+JO  - IEEE Transactions on Engineering Management
+IS  - 5
+SN  - 1558-0040
+VO  - 68
+VL  - 68
+JA  - IEEE Transactions on Engineering Management
+Y1  - Oct. 2021
+AB  - Over the past five years, topic models have been applied to bibliometrics research as an efficient tool for discovering latent and potentially useful content. The combination of topic modeling algorithms and bibliometrics has generated new challenges of interpreting and understanding the outcome of topic modeling. Motivated by these new challenges, this paper proposes a systematic methodology for topic analysis in scientific literature corpora to face the concerns of conducting post topic modeling analysis. By linking the corpus metadata with the discovered topics, we feature them with a number of topic-based analytic indices to explore their significance, developing trend, and received attention. A topic relation identification approach is then presented to quantitatively model the relations among the topics. To demonstrate the feasibility and effectiveness of our methodology, we present two case studies, using big data and dye-sensitized solar cell publications derived from searches in World of Science. Possible application of the methodology in telling good stories of a target corpus is also explored to facilitate further research management and opportunity discovery.
+ER  - 
+
+TY  - JOUR
+TI  - Analyzing Trends and Patterns Across the Educational Technology Communities Using Fontana Framework
+T2  - IEEE Access
+SP  - 35336
+EP  - 35351
+AU  - M. J. Gomez
+AU  - J. A. Ruipérez-Valiente
+AU  - F. J. García Clemente
+PY  - 2022
+KW  - Bibliometrics
+KW  - Market research
+KW  - Task analysis
+KW  - Metadata
+KW  - Social networking (online)
+KW  - Databases
+KW  - Network analyzers
+KW  - EdTech
+KW  - data mining
+KW  - bibliometrics
+KW  - NLP
+KW  - network analysis
+KW  - topic modeling
+DO  - 10.1109/ACCESS.2022.3163253
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+AB  - Nowadays, the use of technology in continuously increasing, making a significant impact in almost every area, including education. New areas have gained much popularity in the last years in educational technology (EdTech), such as Massive Open Online Courses (MOOCs) or computer-supported collaborative learning. In addition, research and interest in this area have also been growing over the years. The quantity of research and scientific publications in EdTech is constantly increasing, and trying to analyze and extract information from a set of research papers is often a very time-consuming task. To make this process easier and solve these limitations, we present Fontana, a framework that can quickly perform trend and social network analysis using any corpus of documents and its metadata. Specifically, the framework can: 1) Discover the latest trends given any corpus of documents, using Natural Language Processing (NLP) analysis and keywords (bibliometric approach); 2) Discover the evolution of the trends previously identified over the years; 3) Discover the primary authors and papers, along with hidden relationships between existing communities. To test its functionality, we evaluated the framework using a corpus of papers from the EdTech research field. We also followed an open science methodology making the entire framework available in Open Science Framework (OSF) easy to access and use. The case study successfully proved the capabilities of the framework, revealing some of the most frequent topics in the area, such as “EDM,” “learning analytics,” or “collaborative learning.” We expect our work to help identifying trends and patterns in the EdTech area, using natural language processing and social network analysis to objectively process large amounts of research.
+ER  - 
+
+TY  - JOUR
+TI  - Uncovering the Educational Data Mining Landscape and Future Perspective: A Comprehensive Analysis
+T2  - IEEE Access
+SP  - 120192
+EP  - 120208
+AU  - O. Ozyurt
+AU  - H. Ozyurt
+AU  - D. Mishra
+PY  - 2023
+KW  - Analytical models
+KW  - Data mining
+KW  - Education
+KW  - Data models
+KW  - Systematics
+KW  - Market research
+KW  - Machine learning
+KW  - Research initiatives
+KW  - Educational data mining
+KW  - topic modeling
+KW  - research trends
+KW  - machine learning
+DO  - 10.1109/ACCESS.2023.3327624
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - Educational data mining (EDM) enables improving educational systems by using data mining techniques on educational data to analyze students’ learning processes to extract valuable information that helps optimize teaching strategies and improve student achievement. EDM has been an important area of research and application in recent years. The aim of this study is to describe the current situation of the EDM field and reveal its future perspective. The study employs descriptive analysis and topic modeling, utilizing a corpus of 2792 studies indexed in the Scopus database since 2007. Firstly, the study determines the document types, distribution by years, prominent authors, countries, subject areas, and journals of the studies in the field of EDM. Then, using topic modeling analysis, which is an unsupervised machine learning technique, the study determines hidden patterns, research interests, and trends within the field. This study is innovative and the first as it reveals latent research interests and trends in the field of EDM through machine learning-based topic modeling-based analysis. The descriptive characteristics of the study emphasize the continuous development of the field and its multidisciplinary aspect. The outputs of the topic modeling analysis reveal that the studies can be grouped into twelve topics. The most frequently studied topic is “Learning pattern and behavior”, and the topic whose frequency of study increases the most over time is “Dropout risk prediction”. When comparing the frequency of study of the topics over time to other topics, the first topic that stands out is “Performance prediction”. The results of this study can be expected to make significant contributions to the field in terms of revealing the big picture of the current literature in the field of EDM and providing a future perspective. Therefore, the results of the study are expected to give direction to the field and provide important insights or guidance to decision makers and education policy makers.
+ER  - 
+
+TY  - JOUR
+TI  - Research Trends in Sustainable E-Payment Systems: A Study Using Topic Modeling Approach
+T2  - IEEE Transactions on Engineering Management
+SP  - 7511
+EP  - 7525
+AU  - S. K. Trivedi
+AU  - S. Vishnu
+AU  - A. Singh
+AU  - M. Yadav
+PY  - 2024
+KW  - Security
+KW  - Online banking
+KW  - Government
+KW  - Market research
+KW  - Text mining
+KW  - Radiofrequency identification
+KW  - Pandemics
+KW  - Digital payment
+KW  - latent Dirichlet allocation (LDA)
+KW  - sustainable e-payment
+KW  - topic modeling
+DO  - 10.1109/TEM.2023.3280216
+JO  - IEEE Transactions on Engineering Management
+IS  - 
+SN  - 1558-0040
+VO  - 71
+VL  - 71
+JA  - IEEE Transactions on Engineering Management
+Y1  - 2024
+AB  - This article analyses research trends in the domain of sustainable e-payment and finds the research gaps therein by applying text mining technique. Abstracts and indexed keywords of 703 research articles on sustainable e-payment have been analyzed by applying the topic modeling approach and the latent Dirichlet allocation technique to narrow down to ten topics. Corresponding number of articles that fall under those topics are determined to address the research gap. Findings reveal disparity in research trends in different aspects of electronic payment. Research and publication in some areas have witnessed appreciable increase in recent years while other topics have remained relatively less explored. Overall, research and publication in the sphere of e-payment show upward trend, especially in recent years. Topics, such as “problems and solutions in e-payments,” “modern statistical analysis tools,” “digitalization of healthcare,” and “secured e-payment technology,” have attracted rigour and interest of the researchers in the domain. In comparison, publications pertaining to topics, such as “cloud-based e-payment system,” “security in electronic payment,” “future of online payment technique,” and “adoptability of digital payment method,” are lesser in numbers. This disparity in research trends in different aspects of electronic payment opens up avenues for a more holistic intellectual exploration of the knowledge domain. Furthermore, the study also finds that the keywords searched in Scopus, number of citations, and name of the publisher act as key factors that impact the popularity of the articles published in this area.
+ER  - 
+
+TY  - JOUR
+TI  - Metaverse in Education: Contributors, Cooperations, and Research Themes
+T2  - IEEE Transactions on Learning Technologies
+SP  - 1111
+EP  - 1129
+AU  - X. Chen
+AU  - D. Zou
+AU  - H. Xie
+AU  - F. L. Wang
+PY  - 2023
+KW  - Metaverse
+KW  - Education
+KW  - Bibliometrics
+KW  - Analytical models
+KW  - Solid modeling
+KW  - Collaboration
+KW  - Databases
+KW  - Bibliometrics
+KW  - Educational Metaverse (Edu-Metaverse)
+KW  - social network visualization
+KW  - structural topic modeling
+DO  - 10.1109/TLT.2023.3277952
+JO  - IEEE Transactions on Learning Technologies
+IS  - 6
+SN  - 1939-1382
+VO  - 16
+VL  - 16
+JA  - IEEE Transactions on Learning Technologies
+Y1  - Dec. 2023
+AB  - Research on Educational Metaverse (Edu-Metaverse) has developed into an active research field. Based on 310 academic papers published from 2004 to 2022, this study identifies contributors, scientific cooperations, and research themes using bibliometrics, social network analysis, topic modeling, and keyword analysis. Results suggest that Edu-Metaverse has been gaining increasing attention in academia since 2019. Countries/affiliations located in the same regions are close partners in scientific cooperation. By jointly interpreting topic modeling and keyword analysis results, this study reveals eight main themes in the field of Edu-Metaverse: 1) Metaverse-based physical education; 2) Metaverse-supported simulations for collaborative problem-based learning (PBL) in health/medical education; 3) 3-D virtual learning environment-supported art appreciation and creation in art education; 4) Metaverse-enabled laboratories for STEM education; 5) language and 21st century skill development through Metaverse-supported immersive language learning; 6) Metaverse for developing autism children’ social communication abilities; 7) virtual world Metaverse-supported gameful experience-based education; and 8) quantitative research on Edu-Metaverse focusing on learners’ experience. We also identified challenges and directions needing further attention: 1) data security and privacy protection; 2) balance between the real world and virtual world identities; 3) preparing instructors for Edu-Metaverse; and 4) assessment of higher-order thinking competencies in Edu-Metaverse-based PBL. This work helps facilitate researchers’ and practitioners’ understanding of Edu-Metaverse research and raises their awareness of research frontiers and future directions.
+ER  - 
+
+TY  - JOUR
+TI  - Finding Trends in Software Research
+T2  - IEEE Transactions on Software Engineering
+SP  - 1397
+EP  - 1410
+AU  - G. Mathew
+AU  - A. Agrawal
+AU  - T. Menzies
+PY  - 2023
+KW  - Software engineering
+KW  - Conferences
+KW  - Software
+KW  - Analytical models
+KW  - Data models
+KW  - Predictive models
+KW  - Testing
+KW  - Software engineering
+KW  - bibliometrics
+KW  - topic modeling
+KW  - text mining
+DO  - 10.1109/TSE.2018.2870388
+JO  - IEEE Transactions on Software Engineering
+IS  - 4
+SN  - 1939-3520
+VO  - 49
+VL  - 49
+JA  - IEEE Transactions on Software Engineering
+Y1  - 1 April 2023
+AB  - Text mining methods can find large scale trends within research communities. For example, using stable Latent Dirichlet Allocation (a topic modeling algorithm) this study found 10 major topics in 35,391 SE research papers from 34 leading SE venues over the last 25 years (divided, evenly, between conferences and journals). Out study also shows how those topics have changed over recent years. Also, we note that (in the historical record) mono-focusing on a single topic can lead to fewer citations than otherwise. Further, while we find no overall gender bias in SE authorship, we note that women are under-represented in the top-most cited papers in our field. Lastly, we show a previously unreported dichotomy between software conferences and journals (so research topics that succeed at conferences might not succeed at journals, and vice versa). An important aspect of this work is that it is automatic and quickly repeatable (unlike prior SE bibliometric studies that used tediously slow and labor intensive methods). Automation is important since, like any data mining study, its conclusions are skewed by the data used in the analysis. The automatic methods of this paper make it far easier for other researchers to re-apply the analysis to new data, or if they want to use different modeling assumptions.
+ER  - 
+
+TY  - JOUR
+TI  - A New Framework for Research Supply and Demand Using Text Analytics
+T2  - IEEE Engineering Management Review
+SP  - 81
+EP  - 95
+AU  - M. Rabiei
+AU  - S. Fatahi
+PY  - 2022
+KW  - Supply and demand
+KW  - Databases
+KW  - Organizations
+KW  - Market research
+KW  - Bibliometrics
+KW  - Sentiment analysis
+KW  - Analytical models
+KW  - Environment
+KW  - gap analysis
+KW  - research ecosystem
+KW  - research supply and demand
+KW  - topic modeling
+DO  - 10.1109/EMR.2022.3179238
+JO  - IEEE Engineering Management Review
+IS  - 3
+SN  - 1937-4178
+VO  - 50
+VL  - 50
+JA  - IEEE Engineering Management Review
+Y1  - 1 thirdquarter,Sept. 2022
+AB  - Numerous research studies are conducted annually, and many researchers look for them in the scientific databases. In order to manage the research ecosystem, it is necessary to have sufficient knowledge about the research supply and demand. This study proposes a novel expert-independent framework to investigate the research supply and demand among the huge number of studies. In this framework, the combination of quantitative, bibliographic, and content analysis methods is applied via text mining techniques. To evaluate the proposed framework, environmental data from the Iran scientific information database is used (Ganj)1 as a rich database. It includes more than 513,000 supplied records and more than 78 million search queries as the research demands. To analyze the research supply and demand, the research topics are extracted via the topic modeling approach from both the supply and demand side. The results showed that the educational category of environmental studies is moved from medical science to engineering in the last decades. Moreover, the gap analysis between research supply and demand identified “Extraction” and “Tourism” as hot topics, “Education,” “Management,” and “Culture” as cold topics, “Soil” and “Energy” as silent topics and finally, “International Rights” and “River” as gap topics. The findings can support environmental policymakers and research managers in making decisions and identifying environmental research needs and priorities. The proposed framework for other research areas can be used to examine and balance research supply and demand.
+ER  - 
+
+TY  - JOUR
+TI  - Three Decades of Cross-Border Mergers and Acquisitions Research: Mapping the Field and Paths Forward
+T2  - IEEE Transactions on Engineering Management
+SP  - 5847
+EP  - 5868
+AU  - J. Liu
+AU  - Q. Meng
+AU  - F. -M. Tseng
+AU  - Y. Sun
+PY  - 2024
+KW  - Corporate acquisitions
+KW  - Reviews
+KW  - Business
+KW  - Market research
+KW  - Bibliometrics
+KW  - Manganese
+KW  - Indexes
+KW  - Co-occurrence analysis
+KW  - cross-border mergers and acquisitions (M&As)
+KW  - literature review
+KW  - paper
+KW  - text mining
+DO  - 10.1109/TEM.2024.3371055
+JO  - IEEE Transactions on Engineering Management
+IS  - 
+SN  - 1558-0040
+VO  - 71
+VL  - 71
+JA  - IEEE Transactions on Engineering Management
+Y1  - 2024
+AB  - Previous reviews of cross-border mergers and acquisitions (M&As) have not provided an integrative and evolutionary analysis, and the academic literature generally reflects a fragmented research perspective. Therefore, this study combined a bibliometric analysis and text mining to analyze the evolution of theories and topics as well as theory–topic co-occurrence. We also used a topic modeling technique to divide the articles into ten subareas and further analyzed their subthemes and dynamics. Overall, we examined 1197 articles published from 1989 to 2022. This study contributes to the current literature by providing data on theory–topic co-occurrence and its evolution in cross-border M&As, conducting theory–topic co-occurrence analysis that identifies popular research trends and provides new insights into how to integrate M&As practices with theories, identifying ten subareas via bibliometric analysis and BERTopic modeling, and identifying key theories and emerging themes to be examined in future studies.
+ER  - 
+
+TY  - JOUR
+TI  - Two-Stage Topic Extraction Model for Bibliometric Data Analysis Based on Word Embeddings and Clustering
+T2  - IEEE Access
+SP  - 145614
+EP  - 145633
+AU  - A. Onan
+PY  - 2019
+KW  - Task analysis
+KW  - Clustering algorithms
+KW  - Text categorization
+KW  - Data analysis
+KW  - Clustering methods
+KW  - Text mining
+KW  - topic extraction
+KW  - machine learning
+KW  - Cluster analysis
+KW  - text mining
+DO  - 10.1109/ACCESS.2019.2945911
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 7
+VL  - 7
+JA  - IEEE Access
+Y1  - 2019
+AB  - Topic extraction is an essential task in bibliometric data analysis, data mining and knowledge discovery, which seeks to identify significant topics from text collections. The conventional topic extraction schemes require human intervention and involve also comprehensive pre-processing tasks to represent text collections in an appropriate way. In this paper, we present a two-stage framework for topic extraction from scientific literature. The presented scheme employs a two-staged procedure, where word embedding schemes have been utilized in conjunction with cluster analysis. To extract significant topics from text collections, we propose an improved word embedding scheme, which incorporates word vectors obtained by word2vec, POS2vec, word-position2vec and LDA2vec schemes. In the clustering phase, an improved clustering ensemble framework, which incorporates conventional clustering methods (i.e., k-means, k-modes, k-means++, self-organizing maps and DIANA algorithm) by means of the iterative voting consensus, has been presented. In the empirical analysis, we analyze a corpus containing 160,424 abstracts of articles from various disciplines, including agricultural engineering, economics, engineering and computer science. In the experimental analysis, performance of the proposed scheme has been compared to conventional baseline clustering methods (such as, k-means, k-modes, and k-means++), LDA-based topic modelling and conventional word embedding schemes. The empirical analysis reveals that ensemble word embedding scheme yields better predictive performance compared to the baseline word vectors for topic extraction. Ensemble clustering framework outperforms the baseline clustering methods. The results obtained by the proposed framework show an improvement in Jaccard coefficient, Folkes & Mallows measure and F1 score.
+ER  - 
+
+TY  - JOUR
+TI  - Predicting Trends and Research Patterns of Smart Cities: A Semi-Automatic Review Using Latent Dirichlet Allocation (LDA)
+T2  - IEEE Access
+SP  - 121080
+EP  - 121095
+AU  - C. Sharma
+AU  - I. Batra
+AU  - S. Sharma
+AU  - A. Malik
+AU  - A. S. M. S. Hosen
+AU  - I. -H. Ra
+PY  - 2022
+KW  - Smart cities
+KW  - Bibliometrics
+KW  - Market research
+KW  - Internet of Things
+KW  - Blockchains
+KW  - Government policies
+KW  - Resource management
+KW  - Predictive models
+KW  - Data visualization
+KW  - Data models
+KW  - Smart cities
+KW  - Internet of Things (IoT)
+KW  - latent Dirichlet allocation (LDA)
+KW  - scopus
+DO  - 10.1109/ACCESS.2022.3214310
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+AB  - Smart cities are a current worldwide topic requiring much scientific investigation. This research instigates the necessity of an organized review to a heedful insight of the research trends and patterns prevailing in this domain. The string is formulated to extract the corpus from Scopus largest database of publications. The corpus of 8320 articles published from 2010 to 2022 is processed using Latent Dirichlet Allocation. Two, five, and ten topics have been extracted to provide the recent trends for IoT in smart cities. There has been an increased recognition that more attention needs to be paid to the area of smart cities so a complete overview of the topic of smart cities research, including the most prominent nations (institutions, sources, and authors) and noteworthy research directions has been presented in this paper. The scientific collaboration across countries (regions), organizations, and authors has also been widely discussed. A detailed and comprehensive overview and visualization of the trends and research patterns used to integrate the Internet of Things in Smart Cities. This data based experimental study signifies a roadmap of the research trends in Smart Cities by implementing topic modeling technique that has never been used in this domain. Based upon the topic modeling using LDA, authors have formulated three research questions and answered those question based on the in-depth research. At the end this study concludes the areas suggested are at the growing phase and need more insight for their growth.
+ER  - 
+
+TY  - JOUR
+TI  - Identifying Hot Information Security Topics Using LDA and Multivariate Mann-Kendall Test
+T2  - IEEE Access
+SP  - 18374
+EP  - 18384
+AU  - C. -D. Curiac
+AU  - M. V. Micea
+PY  - 2023
+KW  - Market research
+KW  - Bibliometrics
+KW  - Natural language processing
+KW  - Databases
+KW  - Data mining
+KW  - Time series analysis
+KW  - Information security
+KW  - Metadata
+KW  - LDA topic modeling
+KW  - multivariate Mann–Kendall test
+KW  - natural language processing
+KW  - paper metadata
+KW  - research theme
+KW  - research trend
+DO  - 10.1109/ACCESS.2023.3247588
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - Discovering promising research themes in a scientific domain by evaluating semantic information extracted from bibliometric databases represents a challenging task for Natural Language Processing (NLP). While existing NLP methods generally characterize the research topics using unique key terms, we take a step further by more accurately modeling the research themes as finite sets of key terms. The proposed approach involves two stages: identifying the research themes from paper metadata using LDA topic modeling; and, evaluation of research theme trends by employing a version of the Mann-Kendall test that is able to cope with multivariate time series of term occurrences. The results obtained by applying this general methodology to Information Security domain confirm its viability.
+ER  - 
+
+TY  - JOUR
+TI  - Identification of Core Authors in International Education of Chinese and the Evolution of Their Research Topics
+T2  - International Journal of Crowd Science
+SP  - 68
+EP  - 76
+AU  - Y. Huang
+AU  - K. Zhang
+PY  - 2023
+KW  - Training
+KW  - Crowdsourcing
+KW  - Analytical models
+KW  - Pandemics
+KW  - Distance learning
+KW  - Education
+KW  - Employment
+KW  - International Education of Chinese
+KW  - core authors
+KW  - Latent Dirichlet Allocation (LDA) model
+KW  - evolution analysis
+DO  - 10.26599/IJCS.2022.9100036
+JO  - International Journal of Crowd Science
+IS  - 2
+SN  - 2398-7294
+VO  - 7
+VL  - 7
+JA  - International Journal of Crowd Science
+Y1  - June 2023
+AB  - Due to the fast development of Internet, the bibliographic information under “Internet+” era presents obvious big data characteristics. Crowdsourcing strategy can be applied to analyze bibliographic data. By gathering journal papers and conference papers from different sources in a specific field and identifying its core authors as well as the evolution of the hot research topics the core authors chose to work on, we hope to provide a reference for future research topics and research directions. In this paper, we modified an existing core author evaluation system by adding an indicator called the weighted score of every authorship. After gathering the experimental data from International Education of Chinese, we used the Price formula to detect the core author candidates and build a core author evaluation system based on five indicators, which were the publication volumes, the number of citations, h-index, research field normalized citation impact, and weighted score of every authorship. The weight of each indicator and the score of each candidate were calculated based on the comprehensive index and entropy-based method. Thereafter, the Latent Dirichlet Allocation (LDA) model was used to summarize the papers on the hot research topics the core authors worked on for each period, followed by evolution analysis. Using the above methods, experiments were carried out on the bibliographic data of journal papers and conference papers in the discipline of International Education of Chinese between 2001 and 2020 that were included in the CNKI. Scholars whose scores were greater than 50 were identified as the core author(s) of each period. The core authors and the evolution of their hot research topics were conducted in four periods, namely 2001–2005, 2006–2010, 2011–2015, and 2016–2020. It is our conclusion that the compilation of textbooks has always been the focus of the discipline of International Education of Chinese, while the teaching modes have become increasingly diversified, and also research on the training of undergraduates and postgraduates has increased. With the advancement of technology, much relevant knowledge from many other disciplines has been integrated into the International Education of Chinese, and scholars should pay attention to interdisciplinary research.
+ER  - 
+
+TY  - JOUR
+TI  - Discovering Trends and Journeys in Knowledge-Based Human Resource Management: Big Data Smart Literature Review Based on Machine Learning Approach
+T2  - IEEE Access
+SP  - 95567
+EP  - 95583
+AU  - L. Falát
+AU  - T. Michalová
+AU  - P. Madzík
+AU  - K. Maršíková
+PY  - 2023
+KW  - Knowledge management
+KW  - Human resource management
+KW  - Bibliographies
+KW  - Knowledge based systems
+KW  - Market research
+KW  - Companies
+KW  - Machine learning
+KW  - Machine learning
+KW  - smart literature review
+KW  - human resource management
+KW  - knowledge
+KW  - topic modelling
+KW  - Covid-19
+DO  - 10.1109/ACCESS.2023.3296140
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - The research interest of knowledge in human resource management (HRM) is significant. Bibliometric or systematic literature review studies capture the main areas and trends in the field of HRM. However, many HRM studies work only with a limited number of analyzed documents (systematic literature review) or go more in breadth than in depth of researched topics (bibliometric reviews). This smart literature review study is based on processing metadata to get results from 7,318 documents related to human resource management and knowledge, published between 1960 and 2021, retrieved from the Scopus database with research directions linked to knowledge and human resources and the current topic Covid-19 pandemic. Such a broad study has not yet been published in the field of knowledge and HRM. The study answers three research questions related to trends and innovative journeys in knowledge-based HRM. Descriptive and inferential statistics was used to capture basic trends in knowledge and HRM themes. Latent Dirichlet Allocation (LDA) was used for topic modelling with Gibbs sampling, which we use on a corpus of abstracts. Used method allowed us to identify latent topics which describe a more in-depth relationship between HRM and knowledge. We identified 13 topics related to HRM and knowledge research as the most relevant and showed directions and trends among the authors of HRM and knowledge management. The last part is devoted to the current topic of Covid-19, key areas identified in the literature and their impact on knowledge management from the perspective of HRM. During the analyzed period, the highest increase of research interest and research impact was recorded by two topics - Employee performance and Risk management. Our study maps the development of these and other topics and more deeply characterizes research in knowledge-based HRM during the pandemic. The results thus offer an up-to-date scientific map of this rapidly developing field and can be the basis for a broader discussion on the future direction of HRM.
+ER  - 
+
+TY  - JOUR
+TI  - Analyzing the Scholarly Literature of Digital Twin Research: Trends, Topics and Structure
+T2  - IEEE Access
+SP  - 69649
+EP  - 69666
+AU  - F. Emmert-Streib
+AU  - S. Tripathi
+AU  - M. Dehmer
+PY  - 2023
+KW  - Digital twins
+KW  - Bibliometrics
+KW  - Databases
+KW  - Market research
+KW  - Resource management
+KW  - Natural language processing
+KW  - Manufacturing
+KW  - Data science
+KW  - Data science
+KW  - digital twin
+KW  - scientometrics
+KW  - natural language processing
+DO  - 10.1109/ACCESS.2023.3290488
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - Currently, studies involving a digital twin are gaining widespread interest. While the first fields adopting such a concept were in manufacturing and engineering, lately, interest extends also beyond these fields across all academic disciplines. Given the inviting idea behind a digital twin which allows the efficient exploitation and utilization of simulations such a trend is understandable. The purpose of this paper is to use a scientometrics approach to study the early publication history of the digital twin across academia. Our analysis is based on large-scale bibliographic and citation data from Scopus that provides authoritative information about high-quality publications in essentially all fields of science, engineering and humanities. This paper has four major objectives. First, we obtain a global overview of all publications related to a digital twin across all major subject areas. This analysis provides insights into the structure of the entire publication corpus. Second, we investigate the co-occurrence of subject areas appearing together on publications. This reveals interdisciplinary relations of the publications and identifies the most collaborative fields. Third, we conduct a trend and keyword analysis to gain insights into the evolution of the concept and the importance of keywords. Fourth, based on results from topic modeling using a Latent Dirichlet Allocation (LDA) model we introduce the definition of a scientometric dimension (SD) of digital twin research that allows to summarize an important aspect of the bound diversity of the academic literature.
+ER  - 
+
+TY  - JOUR
+TI  - A Comparative NLP-Based Study on the Current Trends and Future Directions in COVID-19 Research
+T2  - IEEE Access
+SP  - 78341
+EP  - 78355
+AU  - P. Bose
+AU  - S. Roy
+AU  - P. Ghosh
+PY  - 2021
+KW  - COVID-19
+KW  - Coronaviruses
+KW  - Natural language processing
+KW  - Bibliometrics
+KW  - Analytical models
+KW  - Data models
+KW  - Public policy
+KW  - COVID-19
+KW  - natural language processing
+KW  - coefficient of variation
+KW  - mean squared error
+DO  - 10.1109/ACCESS.2021.3082108
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 9
+VL  - 9
+JA  - IEEE Access
+Y1  - 2021
+AB  - COVID-19 is a global health crisis that has altered human life and still promises to create ripples of death and destruction in its wake. The sea of scientific literature published over a short time-span to understand and mitigate this global phenomenon necessitates concerted efforts to organize our findings and focus on the unexplored facets of the disease. In this work, we applied natural language processing (NLP) based approaches on scientific literature published on COVID-19 to infer significant keywords that have contributed to our social, economic, demographic, psychological, epidemiological, clinical, and medical understanding of this pandemic. We identify key terms appearing in COVID literature that vary in representation when compared to other virus-borne diseases such as MERS, Ebola, and Influenza. We also identify countries, topics, and research articles that demonstrate that the scientific community is still reacting to the short-term threats such as transmissibility, health risks, treatment plans, and public policies, underpinning the need for collective international efforts towards long-term immunization and drug-related challenges. Furthermore, our study highlights several long-term research directions that are urgently needed for COVID-19 such as: global collaboration to create international open-access data repositories, policymaking to curb future outbreaks, psychological repercussions of COVID-19, vaccine development for SARS-CoV-2 variants and their long-term efficacy studies, and mental health issues in both children and elderly.
+ER  - 
+
+TY  - JOUR
+TI  - On the Expressive Power of Scientific Manuscripts
+T2  - IEEE Transactions on Emerging Topics in Computing
+SP  - 269
+EP  - 279
+AU  - G. S. MAHALAKSHMI
+AU  - R. SIVA
+AU  - S. SENDHILKUMAR
+PY  - 2021
+KW  - Machine learning
+KW  - Bibliometrics
+KW  - Semantics
+KW  - Text mining
+KW  - Measurement
+KW  - Indexes
+KW  - Analytical models
+KW  - Citation analysis
+KW  - semantic analysis
+KW  - citation quality
+KW  - machine learning
+KW  - text mining
+KW  - availability index
+KW  - article metrics
+KW  - deep learning
+KW  - expressive power
+DO  - 10.1109/TETC.2018.2870179
+JO  - IEEE Transactions on Emerging Topics in Computing
+IS  - 1
+SN  - 2168-6750
+VO  - 9
+VL  - 9
+JA  - IEEE Transactions on Emerging Topics in Computing
+Y1  - 1 Jan.-March 2021
+AB  - Every research manuscript is appreciated in the form of citations. Citations are expected to carry the essence of the underlying base paper by some rhetorical means. However, this is not true in reality. Citation manipulations are equally possible which shall be identified using research semantics. This paper discusses machine learning based approaches for analyzing research citations with the aim of finding quality research citations. On analyzing the semantics of the research manuscript and the respective citations, this paper proposes various metrics for citation quality analysis including deep cite, raw expressive power, expressive power and normalized expressive power.
+ER  - 
+
+TY  - JOUR
+TI  - Tracing the Evolution of 3-D Printing Technology in China Using LDA-Based Patent Abstract Mining
+T2  - IEEE Transactions on Engineering Management
+SP  - 1135
+EP  - 1145
+AU  - C. Wei
+AU  - L. Chaoran
+AU  - L. Chuanyun
+AU  - K. Lingkai
+AU  - Y. Zaoli
+PY  - 2022
+KW  - Patents
+KW  - Market research
+KW  - Hidden Markov models
+KW  - Three-dimensional printing
+KW  - Research and development
+KW  - Technological innovation
+KW  - Latent dirichlet allocation (LDA)
+KW  - patents analysis
+KW  - technology forecasting
+KW  - 3-D printing
+KW  - topic model
+DO  - 10.1109/TEM.2020.2975988
+JO  - IEEE Transactions on Engineering Management
+IS  - 4
+SN  - 1558-0040
+VO  - 69
+VL  - 69
+JA  - IEEE Transactions on Engineering Management
+Y1  - Aug. 2022
+AB  - 3-D printing is an additive manufacturing process, which enables products to be custom designed. Obtaining the evolution trend and identifying the potential R&D hotspots of 3-D printing technology are important strategic issues for both nations and enterprises. In this article, a combination method is proposed using the Viterbi algorithm to identify technological terms in patents, using the latent Dirichlet allocation model to capture potential technological topics in patents, and using the hidden Markov model to analyze the distribution and evolution pattern of the technological topics. Based on the results, technological topics and future R&D hotspots in 3-D printing are identified. Among the technological topics, extrusion devices and laser powder molding are gradually losing R&D; model acquisition, extrusion devices, rotary printing, and denture are the key topics of technological evolution that are difficult to overcome; laser focusing, print head, color printing, recyclable, feeding, control panel, and denture will become the focus of R&D in the near future. Finally, a comparison and experiments are given to demonstrate the plausibility of our method.
+ER  - 
+
